@@ -1,0 +1,12 @@
+.footer li{
+    list-style:none;
+	padding-left:0;
+	display: inline-table;
+	padding-left:25px;
+	padding-right:25px;
+}
+.footer li ul li{
+	list-style:none;
+	padding-left:0;
+	display: block;
+}
